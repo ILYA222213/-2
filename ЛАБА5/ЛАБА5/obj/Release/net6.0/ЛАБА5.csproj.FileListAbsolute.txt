@@ -1,0 +1,15 @@
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.csproj.AssemblyReference.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.AssemblyInfoInputs.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.AssemblyInfo.cs
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\bin\Release\net6.0\ЛАБА5.exe
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\bin\Release\net6.0\ЛАБА5.deps.json
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\bin\Release\net6.0\ЛАБА5.runtimeconfig.json
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\bin\Release\net6.0\ЛАБА5.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\bin\Release\net6.0\ЛАБА5.pdb
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\refint\ЛАБА5.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.pdb
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ЛАБА5.genruntimeconfig.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\ОАиП\ЛАБА5\ЛАБА5\obj\Release\net6.0\ref\ЛАБА5.dll
